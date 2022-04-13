@@ -8,7 +8,7 @@ http://103.55.144.46/hls/stersports1hd.m3u8
 #EXTINF:-1 , SONY TEN3 HD
 http://103.55.144.46/hls/sonyten3.m3u8
 #EXTINF:-1 , SONY Ten2 HD
-http://103.55.144.46/hls/sonyten2.m3u8
+http://10.16.100.207:8082/sports/sonyTen2_twohd.m3u8
 #EXTINF:-1 ,TEN SPORTS
 http://103.55.144.46/hls/ten.m3u8
 #EXTINF:-1 ,Gazi tv
