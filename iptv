@@ -1,20 +1,26 @@
 #EXTM3U
 #EXTINF:-1 , SONY TEN 1
 http://103.55.144.46/hls/sonyten1.m3u8
-#EXTINF:-1 , Sony MIX
-http://103.55.144.46/hls/hls/sonysix.m3u8
-#EXTINF:-1 , STAR SPORTS
-http://103.55.144.46/hls/stersports1hd.m3u8
 #EXTINF:-1 , SONY TEN3 HD
 http://103.55.144.46/hls/sonyten3.m3u8
 #EXTINF:-1 , SONY Ten2 HD
 http://10.16.100.207:8082/sports/sonyTen2_twohd.m3u8
+#EXTINF:-1 , Sony MIX
+http://103.55.144.46/hls/hls/sonysix.m3u8
+#EXTINF:-1 , STAR SPORTS
+http://103.55.144.46/hls/stersports1hd.m3u8
 #EXTINF:-1 ,TEN SPORTS
-http://103.55.144.46/hls/ten.m3u8
-#EXTINF:-1 ,Gazi tv
+http://10.16.100.207:8082/sports/s0nytEn_1onehd.m3u8
+#EXTINF:-1 ,SONY SIX
+http://10.16.100.207:8082/sports/s0ny6six.m3u8
+#EXTINF:-1 ,Gazi tv- Stream1
 http://10.16.100.207:8082/sports/GaZitV_1stOp.m3u8
-#EXTINF:-1 , T sports
+#EXTINF:-1 ,Gazi tv -Stream2
+http://10.16.100.207:8082/sports/GaZitV_1stOp.m3u8
+#EXTINF:-1 , T sports Stream-1
 http://103.55.144.46/hls/t-sports.m3u8
+#EXTINF:-1 , T sports Stream-2
+http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
 #EXTINF:-1 ,NatGeo Wild
 http://103.55.144.46/hls/ngohd.m3u8
 #EXTINF:-1 ,STAR GOLD
@@ -24,11 +30,19 @@ http://103.55.144.46/hls/sonyten2.m3u8
 #EXTINF:-1 ,STAR JALSHA MOVIES
 http://103.55.144.46/hls/jalshamovies.m3u8
 #EXTINF:-1 ,Channel I
-http://103.55.144.46/hls/channeli.m3u8
+http://10.16.100.203:8082/bangla/chenel_I.m3u8
 #EXTINF:-1 ,Machranga TV
-http://103.55.144.46/hls/masranga.m3u8
+http://10.16.100.208:8082/hindi/m@sranga_1stOP.m3u8
 #EXTINF:-1 ,SOMOY TV
-http://103.55.144.46/hls/hls/somoy.m3u8
+http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
+#EXTINF:-1 ,Ekattor TV
+http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
+#EXTINF:-1 ,BANGLA VISION
+http://10.16.100.203:8082/bangla/banglaviSion_local.m3u8
+#EXTINF:-1 ,ATN NEWS
+http://10.16.100.245/hindi/atNnews_1st0p.m3u8
+#EXTINF:-1 ,DBC NEWS
+http://10.16.100.203:8082/bangla/DbcNews_riptv_21.m3u8
 #EXTINF:-1 ,JALSHA Movies
 http://103.55.144.46/hls/hls/jalshamovies.m3u8
 #EXTINF:-1 ,QURAN TV
