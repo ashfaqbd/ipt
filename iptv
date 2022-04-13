@@ -9,6 +9,8 @@ http://10.16.100.207:8082/sports/sonyTen2_twohd.m3u8
 http://103.55.144.46/hls/hls/sonysix.m3u8
 #EXTINF:-1 , STAR SPORTS
 http://103.55.144.46/hls/stersports1hd.m3u8
+#EXTINF:-1 , STAR SELECT - 1
+http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 ,TEN SPORTS
 http://10.16.100.207:8082/sports/s0nytEn_1onehd.m3u8
 #EXTINF:-1 ,SONY SIX
