@@ -23,8 +23,6 @@ http://103.55.144.46/hls/stargoldhd.m3u8
 http://103.55.144.46/hls/sonyten2.m3u8
 #EXTINF:-1 ,STAR JALSHA MOVIES
 http://103.55.144.46/hls/jalshamovies.m3u8
-#EXTINF:-1 ,TEST 
-http://10.16.100.245/tv/gazitv_local.html
 #EXTINF:-1 ,Channel I
 http://103.55.144.46/hls/channeli.m3u8
 #EXTINF:-1 ,Machranga TV
